@@ -4,7 +4,7 @@
 wikiツール gollumをdocker上で稼働させる
 
 ### How to install
-```bash
+```
 # wget -qO- https://get.docker.com/ | sh
 # git clone git@github.com:senyoltw/docker-gollum.git
 # cd docker-gollum
