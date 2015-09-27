@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+body {
+    font-family: helvetica,arial,freesans,clean,sans-serif;
+}
+
+#head h1,
+.markdown-body h2,
+.markdown-body h1 {
+    font-weight: 300;
+    font-family: 'Open Sans', helvetica, sans-serif;
+}
+
+#head {
+    margin: 1em 0;
+}
+
+#head ul.actions {
+  clear: none;
+  float: right;
+  margin: inherit;
+}
+
+#wiki-header {
+  font-size: 15px;
+  padding:   0 1em;
+}
+
+#wiki-header #header-content {
+  margin-bottom: 0;
+  padding:       0;
+}
