@@ -3,6 +3,8 @@
 ### Introduction
 wikiツール gollumをdocker上で稼働させる
 
+https://github.com/gollum/gollum
+
 ### How to install
 ```
 # wget -qO- https://get.docker.com/ | sh
