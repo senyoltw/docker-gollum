@@ -12,4 +12,4 @@ wikiツール gollumをdocker上で稼働させる
 # docker run --name gollum -v `pwd`:/wiki -p 80:4567 gollum
 ```
 ### How to USE
-http://<ip> にアクセス
+http://IPアドレス にアクセス
